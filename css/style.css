@@ -2,7 +2,7 @@
 .felx{display: flexbox;}
 .center{text-align: center;}
 .round{border-radius: 25px 25px 25px 25px;border:1px solid lightblue;}
-.back-img{background-image: url(/home/youssef/repos/odin-recipes/img/tn.webp);background-size: 2500px;}
+.background-home{background-image:linear-gradient(lightblue, rgb(123, 123, 250));height: 918px;}
 .home-title{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size: 60px;-webkit-text-stroke:1px black;
 -webkit-text-fill-color:rgb(23, 91, 194);}
 .mouse-on:hover{height:410px ;width: 310px;}
@@ -17,8 +17,9 @@
 .marginleft{margin-left: 405px;}
 .title{font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;font-size: 100px;-webkit-text-stroke:1px rgb(67, 208, 255);
     -webkit-text-fill-color:rgb(92, 157, 255);}
-.back-img2{background-image: url(/home/youssef/repos/odin-recipes/img/backfk.avif);background-repeat: round;}
+.background-pages{background-image: linear-gradient(lightblue, rgb(123, 123, 250));background-size: 3000px;background-repeat: round;}
 dt{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;font-size: 30px;color: rgb(192, 209, 255);}
 dd{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;font-size: 20px;color: rgb(112, 250, 255);}
 b{font-size: 25px;}
 .fk-footer{font-family: Arial, Helvetica, sans-serif;font-style: italic;font-size: 15px;color: lightblue;}
+.img-height-width{height: 655px;width: 1010px;}
